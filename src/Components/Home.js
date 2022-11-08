@@ -19,7 +19,7 @@ const Home = (props) => {
         <thead>
           <tr>
             <th>#id</th>
-            <th>List of Polls</th>
+            <th>Polls List</th>
             <th>Go to Poll</th>
           </tr>
         </thead>
