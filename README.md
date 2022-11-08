@@ -1,4 +1,4 @@
-poll creator
+Poll Creator
 ==================
 
 This [React] app was initialized with [create-near-app]
@@ -25,5 +25,3 @@ Now you'll have a local development environment backed by the NEAR TestNet!
    contract. See `contract/README` for info about how it's tested. The frontend
    code gets tested with [jest]. You can run both of these at once with `yarn
    run test`.
-
-# poll-creator
